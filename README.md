@@ -1,19 +1,24 @@
 Introduction👋🏻
 Hi there! My name is Ruven, and I'm a Student👨🏼‍🎓 living in 🇩🇪. I'm passionate about machine learning🦾 and enjoy spending time coding💻 and reading📚.
 
-
+##
 
 🎯About Me
 A bit more about myself:
+
 I've been activ as a student in germany in computer science🧑🏼‍💻
+
 When I'm not working, you can find me creating Youtube Content📸 or reading📚 or in the Gym🏋🏻‍♀️.
+
 My favorite things include 📚 and watching Marvel or Star Wars.
 
 ##
 
 📊Projects
 Some projects I'm currently working on include:
+
 🎧Spotify Streamer: A Web-automation for spotify that increases your streams (maybe not continued🫤)
+
 Still working on it:.....
 
 

@@ -61,3 +61,5 @@ I believe that t is better to be feared than loved, if you cannot be both.
 My goal is to achieve asteroid mining with my company☄️
 
 I hope this gives you a better idea of who I am and what I do! 😊
+
+[![GitHub followers](https://img.shields.io/github/followers/RuvenBeck?style=social)](https://github.com/RuvenBeck)

@@ -4,7 +4,7 @@
 
 ### Building web products, AI-powered tools, and interactive experiences.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=560&lines=Computer+Science+Student+from+Germany;Web+Products+%C2%B7+AI+%C2%B7+Automation;From+ambitious+ideas+to+working+products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=560&lines=Business+Computer+Science+Student+from+Germany;Web+Products+%C2%B7+AI+%C2%B7+Automation;From+ambitious+ideas+to+working+products)](https://git.io/typing-svg)
 
 [![Profile views](https://komarev.com/ghpvc/?username=RuvenBeck&color=58A6FF&style=flat-square&label=PROFILE+VIEWS)](https://github.com/RuvenBeck)
 [![GitHub followers](https://img.shields.io/github/followers/RuvenBeck?style=flat-square&color=58A6FF)](https://github.com/RuvenBeck?tab=followers)
@@ -13,7 +13,7 @@
 
 ## About me
 
-I like turning ambitious ideas into practical products — from creator workflows and research tools to polished web experiences and game-inspired projects.
+I'm a **Business Computer Science** student who likes turning ambitious ideas into practical products — from creator workflows and research tools to polished web experiences and game-inspired projects.
 
 - 🔭 Currently building **CaseCore**, an actively developed web experience deployed on Vercel
 - 🤖 Exploring practical **AI, automation, and data-driven** workflows

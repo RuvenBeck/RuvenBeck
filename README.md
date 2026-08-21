@@ -39,12 +39,9 @@ I'm a **Business Computer Science** student who likes turning ambitious ideas in
 | **Creator tools** | Research and editing workflows for more efficient content production |
 | **AI & automation** | Practical tools and experiments built around intelligent workflows |
 
-## GitHub at a glance
+## GitHub activity
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RuvenBeck&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Ruven's GitHub statistics" />
-  <img height="165" src="https://streak-stats.demolab.com?user=RuvenBeck&theme=tokyonight&hide_border=true" alt="Ruven's contribution streak" />
-</div>
+My contribution graph and achievements are available directly on my [GitHub profile](https://github.com/RuvenBeck).
 
 ## Connect
 

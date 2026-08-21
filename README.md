@@ -1,29 +1,53 @@
+<div align="center">
+
 # Hi, I'm Ruven 👋
 
-**Computer science student from Germany** building web products, AI-powered tools, and interactive experiences.
+### Building web products, AI-powered tools, and interactive experiences.
 
-I enjoy turning ambitious ideas into practical projects — from research and creator workflows to product interfaces and game-inspired web experiences.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=560&lines=Computer+Science+Student+from+Germany;Web+Products+%C2%B7+AI+%C2%B7+Automation;From+ambitious+ideas+to+working+products)](https://git.io/typing-svg)
 
-## What I'm working on
+[![Profile views](https://komarev.com/ghpvc/?username=RuvenBeck&color=58A6FF&style=flat-square&label=PROFILE+VIEWS)](https://github.com/RuvenBeck)
+[![GitHub followers](https://img.shields.io/github/followers/RuvenBeck?style=flat-square&color=58A6FF)](https://github.com/RuvenBeck?tab=followers)
 
-- **CaseCore** — an actively developed web experience, deployed on Vercel
-- **Creator tools** — research and editing workflows that make content production more efficient
-- **AI & automation** — experimenting with practical tools, data-driven ideas, and intelligent workflows
+</div>
 
-## Focus areas
+## About me
 
-```
-Python · Web Development · AI & Automation · Product Building · Content Creation
-```
+I like turning ambitious ideas into practical products — from creator workflows and research tools to polished web experiences and game-inspired projects.
 
-## Beyond code
+- 🔭 Currently building **CaseCore**, an actively developed web experience deployed on Vercel
+- 🤖 Exploring practical **AI, automation, and data-driven** workflows
+- 🎬 Creating tools that make **content production** faster and more enjoyable
+- 🛰️ Interested in technology, space, and the future of asteroid mining
 
-When I'm away from the keyboard, I create content, read, and spend time in the gym. I'm especially interested in technology, space, and the long-term possibilities of asteroid mining.
+## Toolkit
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/AI_%26_Automation-111827?style=for-the-badge&logo=openai&logoColor=white" alt="AI and automation" />
+</p>
+
+## What I'm building
+
+| Project | Focus |
+| --- | --- |
+| **CaseCore** | A web-based interactive product, actively developed and deployed with Vercel |
+| **Creator tools** | Research and editing workflows for more efficient content production |
+| **AI & automation** | Practical tools and experiments built around intelligent workflows |
+
+## GitHub at a glance
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RuvenBeck&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Ruven's GitHub statistics" />
+  <img height="165" src="https://streak-stats.demolab.com?user=RuvenBeck&theme=tokyonight&hide_border=true" alt="Ruven's contribution streak" />
+</div>
 
 ## Connect
 
-- 🌐 [GitHub](https://github.com/RuvenBeck)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ruven-beckner-6b62231b4/)
 - 📧 [kontakt@ruvenbeckner.de](mailto:kontakt@ruvenbeckner.de)
-
-[![GitHub followers](https://img.shields.io/github/followers/RuvenBeck?style=social)](https://github.com/RuvenBeck)
+- 🌐 [github.com/RuvenBeck](https://github.com/RuvenBeck)

@@ -1,65 +1,29 @@
-Introduction👋🏻
-Hi there! My name is Ruven, and I'm a Student👨🏼‍🎓 living in 🇩🇪. I'm passionate about machine learning🦾 and enjoy spending time coding💻 and reading📚.
+# Hi, I'm Ruven 👋
 
-##
+**Computer science student from Germany** building web products, AI-powered tools, and interactive experiences.
 
-🎯About Me
-A bit more about myself:
+I enjoy turning ambitious ideas into practical projects — from research and creator workflows to product interfaces and game-inspired web experiences.
 
-I've been activ as a student in germany in computer science🧑🏼‍💻
+## What I'm working on
 
-When I'm not working, you can find me creating Youtube Content📸 or reading📚 or in the Gym🏋🏻‍♀️.
+- **CaseCore** — an actively developed web experience, deployed on Vercel
+- **Creator tools** — research and editing workflows that make content production more efficient
+- **AI & automation** — experimenting with practical tools, data-driven ideas, and intelligent workflows
 
-My favorite things include 📚 and watching Marvel or Star Wars.
+## Focus areas
 
-##
+```
+Python · Web Development · AI & Automation · Product Building · Content Creation
+```
 
-📊Projects
-Some projects I'm currently working on include:
+## Beyond code
 
-🎧Spotify Streamer: A Web-automation for spotify that increases your streams (maybe not continued🫤)
+When I'm away from the keyboard, I create content, read, and spend time in the gym. I'm especially interested in technology, space, and the long-term possibilities of asteroid mining.
 
-Still working on it:.....
+## Connect
 
-
-
-💼Skills
-My skills include:
-
-💻 Programming languages: Python
-🧑🏼‍💻 Content Creation: Premiere Pro, Photoshop
-
-
-
-📝Experience
-My work experience includes:
-🤷🏼 Can't provide you with this information right know.
-
-
-
-🎓Education
-My educational background includes:
-🎓Studying computer science since this year....
-
-
-
-📲Contact Information
-You can reach me through the following channels:
-
-##
-
-📧Email: kontakt@ruvenbeckner.de
-
-📱LinkedIn: https://www.linkedin.com/in/ruven-beckner-6b62231b4/
-
-🤖Github: https://github.com/RuvenBeck
-
-💬Personal Statement
-A little bit about my approach to work:
-
-I believe that t is better to be feared than loved, if you cannot be both.
-My goal is to achieve asteroid mining with my company☄️
-
-I hope this gives you a better idea of who I am and what I do! 😊
+- 🌐 [GitHub](https://github.com/RuvenBeck)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ruven-beckner-6b62231b4/)
+- 📧 [kontakt@ruvenbeckner.de](mailto:kontakt@ruvenbeckner.de)
 
 [![GitHub followers](https://img.shields.io/github/followers/RuvenBeck?style=social)](https://github.com/RuvenBeck)

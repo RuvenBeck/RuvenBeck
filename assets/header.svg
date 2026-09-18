@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="100%" height="auto">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#07090e" />
+      <stop offset="50%" stop-color="#0a0e17" />
+      <stop offset="100%" stop-color="#05070b" />
+    </linearGradient>
+
+    <!-- Radial atmospheric glows -->
+    <radialGradient id="cyan-glow" cx="88%" cy="20%" r="60%">
+      <stop offset="0%" stop-color="#00f2fe" stop-opacity="0.12" />
+      <stop offset="50%" stop-color="#0ea5e9" stop-opacity="0.04" />
+      <stop offset="100%" stop-color="#07090e" stop-opacity="0" />
+    </radialGradient>
+
+    <radialGradient id="blue-glow" cx="12%" cy="80%" r="50%">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.09" />
+      <stop offset="100%" stop-color="#07090e" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Linear accent gradients -->
+    <linearGradient id="text-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="100%" stop-color="#e2e8f0" />
+    </linearGradient>
+
+    <linearGradient id="badge-border" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#1e293b" stop-opacity="0.2" />
+    </linearGradient>
+
+    <!-- Minimal dot matrix pattern -->
+    <pattern id="dot-grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="14" cy="14" r="0.8" fill="#334155" fill-opacity="0.35" />
+    </pattern>
+  </defs>
+
+  <!-- Canvas Base -->
+  <rect width="1200" height="320" rx="14" fill="url(#bg)" />
+  <rect width="1200" height="320" rx="14" fill="url(#cyan-glow)" />
+  <rect width="1200" height="320" rx="14" fill="url(#blue-glow)" />
+  <rect width="1200" height="320" rx="14" fill="url(#dot-grid)" />
+  <rect x="1" y="1" width="1198" height="318" rx="13" fill="none" stroke="#1e293b" stroke-width="1" stroke-opacity="0.75" />
+
+  <!-- Left Side: Identity & Core Statement -->
+  <g transform="translate(68, 0)">
+    <!-- Small Status Eyebrow -->
+    <g transform="translate(0, 62)">
+      <rect x="0" y="0" width="186" height="26" rx="13" fill="#0b1329" stroke="url(#badge-border)" stroke-width="0.9" />
+      <circle cx="14" cy="13" r="3.5" fill="#00f2fe">
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" repeatCount="indefinite" />
+      </circle>
+      <text x="25" y="17" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="600" fill="#7dd3fc" letter-spacing="1">PRODUCT BUILDER</text>
+    </g>
+
+    <!-- Primary Title / Name -->
+    <text x="0" y="138" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, sans-serif" font-size="44" font-weight="800" fill="url(#text-grad)" letter-spacing="-0.8">RUVEN BECKNER</text>
+
+    <!-- Clean Headline -->
+    <text x="0" y="180" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, sans-serif" font-size="20" font-weight="500" fill="#94a3b8">
+      Building intelligent tools for <tspan fill="#38bdf8" font-weight="600">creators</tspan>, <tspan fill="#00f2fe" font-weight="600">automation</tspan> and <tspan fill="#f1f5f9" font-weight="600">the web</tspan>.
+    </text>
+
+    <!-- Subtitle / Focus Areas -->
+    <text x="0" y="222" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="13" font-weight="400" fill="#64748b" letter-spacing="0.4">
+      <tspan fill="#38bdf8">AI systems</tspan> · <tspan fill="#64748b">Creator infrastructure</tspan> · <tspan fill="#00f2fe">Local-first desktop</tspan> · <tspan fill="#64748b">Interactive builds</tspan>
+    </text>
+
+    <!-- Subtle metadata footer -->
+    <g transform="translate(0, 266)">
+      <line x1="0" y1="0" x2="480" y2="0" stroke="#1e293b" stroke-width="1" />
+      <text x="0" y="18" font-family="'JetBrains Mono', monospace" font-size="11" fill="#475569">
+        TypeScript · Python · React · Next.js · Electron · WhisperX · FFmpeg · Supabase
+      </text>
+    </g>
+  </g>
+
+  <!-- Right Side: Abstract Minimal System Geometry -->
+  <g transform="translate(850, 52)">
+    <!-- Ambient backplate -->
+    <rect x="0" y="0" width="280" height="216" rx="12" fill="#0b0f19" fill-opacity="0.65" stroke="#1e293b" stroke-width="1" />
+
+    <!-- Waveform & Timeline tracks -->
+    <g transform="translate(24, 30)">
+      <text x="0" y="0" font-family="'JetBrains Mono', monospace" font-size="10.5" fill="#64748b" letter-spacing="0.5">SYNTHESIS PIPELINE</text>
+      <circle cx="218" cy="-4" r="3" fill="#00f2fe" />
+      <text x="226" y="0" font-family="'JetBrains Mono', monospace" font-size="9" fill="#0ea5e9">LIVE</text>
+
+      <!-- Waveform track -->
+      <path d="M 0 34 Q 18 16 36 34 T 72 34 T 108 22 T 144 42 T 180 30 T 216 34 T 232 34" fill="none" stroke="#38bdf8" stroke-width="1.6" stroke-opacity="0.85" />
+      
+      <!-- Video clip segments -->
+      <g transform="translate(0, 48)">
+        <rect x="0" y="0" width="60" height="14" rx="3" fill="#1e3a8a" fill-opacity="0.6" stroke="#3b82f6" stroke-width="0.8" />
+        <rect x="66" y="0" width="82" height="14" rx="3" fill="#0369a1" fill-opacity="0.6" stroke="#0ea5e9" stroke-width="0.8" />
+        <rect x="154" y="0" width="78" height="14" rx="3" fill="#0f766e" fill-opacity="0.6" stroke="#14b8a6" stroke-width="0.8" />
+      </g>
+
+      <!-- Playhead line -->
+      <line x1="112" y1="20" x2="112" y2="72" stroke="#00f2fe" stroke-width="1.5" />
+      <polygon points="109,18 115,18 112,23" fill="#00f2fe" />
+    </g>
+
+    <!-- Node network / Agent layer -->
+    <g transform="translate(24, 126)">
+      <line x1="0" y1="0" x2="232" y2="0" stroke="#1e293b" stroke-width="1" />
+      
+      <!-- Abstract nodes -->
+      <g transform="translate(0, 16)">
+        <circle cx="16" cy="18" r="5" fill="#0f172a" stroke="#38bdf8" stroke-width="1.5" />
+        <circle cx="16" cy="18" r="2" fill="#00f2fe" />
+        
+        <line x1="22" y1="18" x2="94" y2="18" stroke="#334155" stroke-width="1" stroke-dasharray="2,2" />
+        
+        <circle cx="100" cy="18" r="5" fill="#0f172a" stroke="#0ea5e9" stroke-width="1.5" />
+        <circle cx="100" cy="18" r="2" fill="#38bdf8" />
+        
+        <line x1="106" y1="18" x2="178" y2="18" stroke="#334155" stroke-width="1" stroke-dasharray="2,2" />
+        
+        <circle cx="184" cy="18" r="5" fill="#0f172a" stroke="#14b8a6" stroke-width="1.5" />
+        <circle cx="184" cy="18" r="2" fill="#2dd4bf" />
+
+        <text x="3" y="38" font-family="'JetBrains Mono', monospace" font-size="9" fill="#94a3b8">Ingest</text>
+        <text x="86" y="38" font-family="'JetBrains Mono', monospace" font-size="9" fill="#94a3b8">Align</text>
+        <text x="168" y="38" font-family="'JetBrains Mono', monospace" font-size="9" fill="#94a3b8">Render</text>
+      </g>
+    </g>
+  </g>
+</svg>
